@@ -4,6 +4,7 @@ I am a Student at the NWU<br>I am also a Photographer / Videographer and do long
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StephanBuys) 
+
 https://main--stephan-buys.netlify.app/
 
 # 💻 Tech Stack:
